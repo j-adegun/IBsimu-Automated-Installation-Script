@@ -17,7 +17,7 @@ This repository contains `install_ibsimu.sh`, a bash script designed to automate
 1. **Download the script** to your machine. Recommended location --> /home directory
 2. **Make it executable**:
    ```bash
-   chmod +x install_ibsimu.sh
+   sudo chmod +x install_ibsimu.sh
    ./install_ibsimu.sh
  
 ## ⚠️ Troubleshooting: The GSL Mirror Issue
